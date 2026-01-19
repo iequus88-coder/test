@@ -1,0 +1,8 @@
+{
+  "name": "Safe-Sun 스마트 안전관리 시스템",
+  "description": "(주)그랜드썬에스피의 태양광 발전설비 현장 안전관리 및 중대재해처벌법 대응 솔루션",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
